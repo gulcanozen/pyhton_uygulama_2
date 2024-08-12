@@ -1,0 +1,1 @@
+# pyhton_uygulama_2
